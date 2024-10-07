@@ -1,13 +1,3 @@
-
-'''
-Phone number tracker
-
-Created by *Abdullah EL-Yamani*
------------------------------
-Link Youtube Video => https://youtu.be/Geisa_ib5hs
-Youtube Channel => Sam Codes
-'''
-
 import phonenumbers
 from phonenumbers import geocoder, carrier, timezone
 from opencage.geocoder import OpenCageGeocode
